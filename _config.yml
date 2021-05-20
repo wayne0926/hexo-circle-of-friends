@@ -24,9 +24,6 @@ setting:
     - 'categories'
     - 'record'
     - 'sort'
-    - 'doge'
-    - 'wr0926'
-    - 'baidu'
 
   block_chars: # 屏蔽sitemap获取标题的分割字符
     - '|'
